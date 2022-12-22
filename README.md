@@ -1,7 +1,9 @@
 # Practices in Java
-- Practices in Java developed by Enrique Cocom and Neydi Cauich.
--------------------------------
+## Practices in Java developed by Enrique Cocom and Neydi Cauich.
+
 In this repository we will see the Java programming language with examples created during the course.
+
+![Gif](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
 
 ## ¿Qué es Java?
 Java is a programming language computing platform on which many services and applications are built, created by Sun Microsystems in 1995.
