@@ -3,7 +3,7 @@
 
 In this repository we will see the Java programming language with examples created during the course.
 
-![GIF](giphy.gif)
+![GIF-estefanniegg](giphy.gif)
 
 ## ¿Qué es Java?
 Java is a programming language computing platform on which many services and applications are built, created by Sun Microsystems in 1995.
